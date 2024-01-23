@@ -1,5 +1,5 @@
 # smoke dust pigeons weeds
-grüß gott
+
 How can we protect the earth from all the destruction humanity has put it through in the past and present and ensure a future with thriving ecosystems?
 The first important step for humanity is to not put itself on a pedestal and acknowledge our inextricable connection with nature.
 This realization leads to posthumanism, a paradigm shift with roots in feminism, challenging norms that have traditionally sexualized, racialized and naturalized human existence. Posthumanism challenges the anthropocentric thought-space that has led to a decoupling of human actions and their effects on nature. Nature has been seen as a “backdrop” to the life of humans, that can be exploited as much as we want to. Decoupling is a concept developed by economics to resolve the unintended consequences of economic growth. The goal is to continue the growth of the economy while decreasing the use of resources at the same time. In reality however, countries trying to decouple their economic processes mostly end up outsourcing those problems to other countries (Dalziel 2022).
@@ -25,7 +25,11 @@ The idealised concept of wild nature perpetuates existing injustices and keeps t
 
 # Sources
 Dalziel, M. (2022). Towards a Posthuman Practice for Architecture and Urbanism? Nordic Journal of Urban Studies, (1), 90-96.
+
 Krauss, J. E., (2021) “Decolonizing, conviviality and convivial conservation: towards a convivial SDG 15, life on land?”, Journal of Political Ecology 28(1). 
+
 Lada, A. S. (2023). ‘Posthuman’architecture: Contemporary approaches of the human, technology and nature within the built environment. In Social Practices and City Spaces Routledge, 205-221.
+
 Rodriguez, M. B., & Simon, M. (2015). Conceptualizing conviviality in urban landscapes. Athens Journal of Architecture, 1(4), 311-326.
+
 Steve Hinchliffe & Sarah Whatmore (2006) Living cities: Towards a politics of conviviality, Science as Culture, 15(2), 123-138
